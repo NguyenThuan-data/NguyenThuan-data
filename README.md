@@ -1,4 +1,3 @@
-# 💫About Me :
 # 👋 Kia ora, I'm Thuan Nguyen!
 
 🎓 I'm a Second year student at **Auckland University of Technology (AUT)**, majoring in **Data Science** and **Cyber Security**.  
