@@ -1,15 +1,19 @@
 # 👋 Kia ora, I'm Thuan Nguyen!
 
 🎓 I'm a Final-year student at **Auckland University of Technology (AUT)**, majoring in **Data Science** and **Cyber Security**.  
-💻 I'm passionate about solving real-world problems through **data-driven insights**, secure systems, and innovative technology.  
-🥊 When I’m not coding, you’ll probably find me training **Muay Thai**, lifting at the **gym**, or planning my next **travel adventure**.  
+💻 I'm passionate about solving real-world problems through **data-driven insights**, secure systems, and innovative technology. My aim is to:  
+      * **Good in technical skills**  
+      * **Be able to delivery my idea, product to every tyoe of audience like a Sale Person**  
+      * **A non-tech person could understand what I do with my explaination**  
+🥊 When I’m not coding, you’ll probably find me training **Boxing**, lifting at the **gym**, or planning my next **travel adventure**.  
 
 ---
 
 ## 🌱 Currently Working On
-- Building personal projects to sharpen my skills in **Python**, **SQL**, and **R**
-- Exploring AI, cybersecurity threats, and Analyze data
-- Preparing for a **internship, any opportunities** where I can contribute and grow as a Tech person
+- Building Machine Learning projects, Data Warehouse, AI related Implementaion to sharpen my skills in **Python**, **SQL**, and **R** or skills that help my current project..
+- Exploring AI, cybersecurity threats, and Analyze data, curious about how to use technical tools to solve business problems.
+- Identifying what I do not know.
+- Preparing for a **internship, any opportunities** where I can contribute and grow professionally as well as personally.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NguyenThuan-data) 
