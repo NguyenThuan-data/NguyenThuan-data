@@ -2,7 +2,7 @@
 
 <p align="center">
   Final-year AUT student in <strong>Data Science</strong> and <strong>Cyber Security</strong><br>
-  Currently focusing on <strong>Applied AI</strong>, <strong>LLM systems</strong>, and <strong>agentic workflows</strong>
+  Building toward <strong>Applied AI</strong>, <strong>LLM systems</strong>, and <strong>agentic workflows</strong>
 </p>
 
 <p align="center">
@@ -20,35 +20,35 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Auckland%2C%20New%20Zealand-1f6feb?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Seeking-2026%20Internships%20%26%20Graduate%20Roles-success?style=flat-square" alt="Seeking roles">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%7C%20LLMs%20%7C%20Agentic%20Systems-7a3cff?style=flat-square" alt="Focus areas">
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%7C%20ML%20Systems%20%7C%20Analytics-7a3cff?style=flat-square" alt="Focus areas">
 </p>
 
 ---
 
 ## About Me
 
-I am building toward an AI engineering path focused on practical LLM applications, orchestration, and retrieval-based systems. My background in machine learning, analytics, and data projects gives me a strong foundation, and I am currently deepening that into modern AI workflows and tooling.
+My current projects show a strong foundation in machine learning, analytics, data storytelling, SQL, and practical Python tools. I enjoy taking a business problem, turning it into a structured workflow, and delivering something useful, whether that is an ML app, an analysis project, a scraper, or a data pipeline.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Current Focus
-- Retrieval-Augmented Generation (RAG)
-- LLM application design and evaluation
-- MCP-based integrations and tool use
-- Agentic AI workflows and orchestration
-- Self-hosted and efficient inference patterns
+### What I'm Good At
+- End-to-end ML projects from analysis to deployment
+- Turning business questions into clear data solutions
+- SQL, ETL, and analytics-oriented data workflows
+- Building practical Python tools and lightweight apps
+- Explaining results through visualizations and readable write-ups
 
 </td>
 <td valign="top" width="50%">
 
 ### Currently Learning
 - `n8n` for orchestration and workflow automation
-- `vLLM` for fast model serving
+- `RAG` pipelines for retrieval-based AI applications
+- `vLLM` for efficient model serving
 - `MCP` patterns for tool-connected AI systems
-- LLM agents and multi-step reasoning workflows
-- Generative AI system design with real-world use cases
+- `LLM agents` and `Generative AI` workflows
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Structured exploratory analysis showing data storytelling, visualization, and in
 </table>
 
 <p>
-  These projects reflect my data and ML foundation while I continue shifting my portfolio toward applied AI, agentic systems, and LLM-powered workflows.
+  These projects reflect what I already do well today, while my current learning is pushing me toward applied AI, LLM-powered systems, and agentic automation.
 </p>
 
 ---
@@ -105,7 +105,6 @@ Structured exploratory analysis showing data storytelling, visualization, and in
   <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-D97706?style=for-the-badge" alt="Generative AI">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
 ## Supporting Foundation
