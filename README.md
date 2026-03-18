@@ -56,7 +56,7 @@ My current projects show a strong foundation in machine learning, analytics, dat
 
 ---
 
-## Selected Projects
+## Projects
 
 <table>
 <tr>
