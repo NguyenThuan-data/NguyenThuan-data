@@ -80,9 +80,6 @@ Portfolio project covering data modeling, ETL thinking, and analytics-oriented w
 ### [Walmart Sales Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
 ETL, SQL analysis, and business recommendations built from retail sales data.
 
-### [Titanic Survival Analysis](https://github.com/NguyenThuan-data/Titanic_Survival_Analysis)
-Structured exploratory analysis showing data storytelling, visualization, and insight generation.
-
 </td>
 </tr>
 </table>
