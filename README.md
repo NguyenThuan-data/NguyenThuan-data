@@ -1,7 +1,7 @@
 <h1 align="center">Thuan Nguyen</h1>
 
 <p align="center">
-  Final-year AUT student in <strong>Data Science</strong> and <strong>Cyber Security</strong><br>
+  Incoming graduated AUT student in <strong>Data Science</strong> and <strong>Cyber Security</strong><br>
   Building toward <strong>Applied AI</strong>, <strong>LLM systems</strong>, and <strong>agentic workflows</strong>
 </p>
 
