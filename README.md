@@ -68,8 +68,13 @@ End-to-end ML project for prediction, model comparison, and deployment with an i
 ### [Dynamic Pricing Strategy](https://github.com/NguyenThuan-data/Dynamic_Pricing_Strategy)
 Business-focused pricing analysis with interactive visualizations and a recommendation workflow.
 
-### [Booking.com Web Scraper](https://github.com/NguyenThuan-data/Booking.com-Web-Scraper)
-Python and Flask tool for scraping accommodation listings and exporting structured results.
+### [Accessibily Testing Model Context protocol Server]()
+Team-led WCAG audit automation for Datacom: MCP server + Playwright + Axe-core. ~30s audits from natural language, zero-config for developers, 3 report formats. Case study of process, decisions, and learning — AUT graduate project.  
+- Led a 4-person team building WCAG audit tooling for **Datacom** — from manual specialist audits to ~30s AI-assistant-driven scans
+- Designed a confirmation-first MCP workflow so QA teams run compliance checks without scripting or deep a11y expertise
+- Leveled up from feature-building to stakeholder liaison, JS/TS code review, and sprint-integrated quality delivery  
+**Stacks:** `accessibility` · `wcag` · `playwright` · `axe-core` · `model-context-protocol` 
+</details>
 
 </td>
 <td width="50%" valign="top">
