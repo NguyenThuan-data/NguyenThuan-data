@@ -2,7 +2,7 @@
 
 <p align="center">
   Final-year AUT graduate · <strong>Data Science</strong> + <strong>Cyber Security</strong><br>
-  Applied AI · accessibility QA · ML systems · Auckland, NZ
+  Applied AI · ML systems · Data Science · Auckland, NZ
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%7C%20Accessibility%20QA%20%7C%20ML%20Systems-7a3cff?style=flat-square" alt="Focus areas">
 </p>
 
-<p align="center"><em>I build systems that work for users, not just demos.</em></p>
+<p align="center"><em>I build systems end-to-end system that works for user.</em></p>
 
 ---
 
@@ -43,8 +43,7 @@
 
 ### Proof in production
 - **Datacom** — team-led WCAG audit automation (MCP + Playwright + Axe)
-- **Vietnam internship** — medical ASR pipeline (speech + LLM stack)
-- Sprint-integrated QA workflows for mixed technical / non-technical teams
+- **Internship** — medical ASR pipeline (speech + LLM stack)
 
 </td>
 </tr>
