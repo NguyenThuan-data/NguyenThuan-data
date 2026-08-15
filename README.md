@@ -2,7 +2,7 @@
 
 <p align="center">
   Final-year AUT graduate · <strong>Data Science</strong> + <strong>Cyber Security</strong><br>
-  Applied AI · ML systems · Data Science · Auckland, NZ
+  Applied AI · ML systems · Data Science · Data Engineer · Auckland, NZ
 </p>
 
 <p align="center">
